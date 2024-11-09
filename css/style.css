@@ -403,18 +403,7 @@ img.animated.pulse {
     box-shadow: none;
 }
 
-.footer .copyright {
-    padding: 25px 0;
-    border-top: 3px solid var(--bs-light);
-}
 
-.footer .copyright a {
-    color: var(--bs-body);
-}
-
-.footer .copyright a:hover {
-    color: var(--bs-primary);
-}
 
 .footer .footer-menu a {
     margin-right: 15px;
