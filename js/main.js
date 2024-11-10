@@ -1,3 +1,10 @@
+$(document).ready(function(){
+    $('.nav-item.nav-link').on('click', function(){
+        $('.navbar-collapse').collapse('hide');
+    });
+});
+
+
 (function ($) {
     "use strict";
 
